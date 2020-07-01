@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/sfresnel/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/sfresnel/Downloads/Flutter-Course-Resources/MiCard-Completed"
-export "FLUTTER_TARGET=/Users/sfresnel/Downloads/Flutter-Course-Resources/MiCard-Completed/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/sfresnel/Downloads/GitHub/mi_card_flutter"
+export "FLUTTER_TARGET=/Users/sfresnel/Downloads/GitHub/mi_card_flutter/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
